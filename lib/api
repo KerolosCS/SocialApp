@@ -1,0 +1,273 @@
+// 20230711174612
+// https://newsapi.org/v2/top-headlines?country=eg&category=business&apiKey=5ce4f9c13ddd47ea90ce961c1bd1d149
+
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Masrawy - مصراوي",
+      "title": "تعرف على سعر الذهب المعلن بموقع البورصة المصرية الاثنين 10 يوليو - Masrawy - مصراوي",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiiANodHRwczovL3d3dy5tYXNyYXd5LmNvbS9uZXdzL25ld3NfZWNvbm9teS9kZXRhaWxzLzIwMjMvNy8xMC8yNDM5Mzk4LyVEOCVBQSVEOCVCOSVEOCVCMSVEOSU4MS0lRDglQjklRDklODQlRDklODktJUQ4JUIzJUQ4JUI5JUQ4JUIxLSVEOCVBNyVEOSU4NCVEOCVCMCVEOSU4NyVEOCVBOC0lRDglQTclRDklODQlRDklODUlRDglQjklRDklODQlRDklODYtJUQ4JUE4JUQ5JTg1JUQ5JTg4JUQ5JTgyJUQ4JUI5LSVEOCVBNyVEOSU4NCVEOCVBOCVEOSU4OCVEOCVCMSVEOCVCNSVEOCVBOS0lRDglQTclRDklODQlRDklODUlRDglQjUlRDglQjElRDklOEElRDglQTktJUQ4JUE3JUQ5JTg0JUQ4JUE3JUQ4JUFCJUQ5JTg2JUQ5JThBJUQ5JTg2LTEwLSVEOSU4QSVEOSU4OCVEOSU4NCVEOSU4QSVEOSU4ONIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-10T12:31:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "السعودية Investing.comالسعودية Investing.com",
+      "title": "الدولار سيسقط بأمر الفيدرالي.. رهانات هبوطية توفر دعمًا غير مسبوق للذهب بواسطة Investing.com - السعودية Investing.comالسعودية Investing.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vc2EuaW52ZXN0aW5nLmNvbS9uZXdzL2ZvcmV4LW5ld3MvYXJ0aWNsZS0yNDM0NDI20gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-10T11:22:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "مُباشِر",
+      "title": "سهم طاقة عربية يقفز أكثر من 4000% بمنتصف التعاملات وسط إلغاء عمليات منفذة - مُباشِر",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiiANodHRwczovL3d3dy5tdWJhc2hlci5pbmZvL25ld3MvNDE1MTM2Mi8lRDglQjMlRDklODclRDklODUtJUQ4JUI3JUQ4JUE3JUQ5JTgyJUQ4JUE5LSVEOCVCOSVEOCVCMSVEOCVBOCVEOSU4QSVEOCVBOS0lRDklOEElRDklODIlRDklODElRDglQjItJUQ4JUEzJUQ5JTgzJUQ4JUFCJUQ4JUIxLSVEOSU4NSVEOSU4Ni00MDAwLSVEOCVBOCVEOSU4NSVEOSU4NiVEOCVBQSVEOCVCNSVEOSU4MS0lRDglQTclRDklODQlRDglQUElRDglQjklRDglQTclRDklODUlRDklODQlRDglQTclRDglQUEtJUQ5JTg4JUQ4JUIzJUQ4JUI3LSVEOCVBNSVEOSU4NCVEOCVCQSVEOCVBNyVEOCVBMS0lRDglQjklRDklODUlRDklODQlRDklOEElRDglQTclRDglQUEtJUQ5JTg1JUQ5JTg2JUQ5JTgxJUQ4JUIwJUQ4JUE5L9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-10T09:49:45Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "السعودية Investing.comالسعودية Investing.com",
+      "title": "إجراء هام من البنوك المركزية تجاه الذهب.. خوفًا من هذا الأمر! بواسطة Investing.com - السعودية Investing.comالسعودية Investing.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vc2EuaW52ZXN0aW5nLmNvbS9uZXdzL2NvbW1vZGl0aWVzLW5ld3MvYXJ0aWNsZS0yNDM0MzYz0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-10T09:27:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Masrawy - مصراوي",
+      "title": "لماذا لجأت بنوك إلى زيادة أسعار رسوم الخدمات المصرفية خلال 2023؟ - Masrawy - مصراوي",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMi-QJodHRwczovL3d3dy5tYXNyYXd5LmNvbS9uZXdzL25ld3MtYmFua2luZy9kZXRhaWxzLzIwMjMvNy8xMC8yNDM5MjMxLyVEOSU4NCVEOSU4NSVEOCVBNyVEOCVCMCVEOCVBNy0lRDklODQlRDglQUMlRDglQTMlRDglQUEtJUQ4JUE4JUQ5JTg2JUQ5JTg4JUQ5JTgzLSVEOCVBNSVEOSU4NCVEOSU4OS0lRDglQjIlRDklOEElRDglQTclRDglQUYlRDglQTktJUQ4JUEzJUQ4JUIzJUQ4JUI5JUQ4JUE3JUQ4JUIxLSVEOCVCMSVEOCVCMyVEOSU4OCVEOSU4NS0lRDglQTclRDklODQlRDglQUUlRDglQUYlRDklODUlRDglQTclRDglQUEtJUQ4JUE3JUQ5JTg0JUQ5JTg1JUQ4JUI1JUQ4JUIxJUQ5JTgxJUQ5JThBJUQ4JUE5LSVEOCVBRSVEOSU4NCVEOCVBNyVEOSU4NC0yMDIzLdIB_QJodHRwczovL3d3dy5tYXNyYXd5LmNvbS9uZXdzL25ld3MtYmFua2luZy9kZXRhaWxzLzIwMjMvNy8xMC8yNDM5MjMxLyVEOSU4NCVEOSU4NSVEOCVBNyVEOCVCMCVEOCVBNy0lRDklODQlRDglQUMlRDglQTMlRDglQUEtJUQ4JUE4JUQ5JTg2JUQ5JTg4JUQ5JTgzLSVEOCVBNSVEOSU4NCVEOSU4OS0lRDglQjIlRDklOEElRDglQTclRDglQUYlRDglQTktJUQ4JUEzJUQ4JUIzJUQ4JUI5JUQ4JUE3JUQ4JUIxLSVEOCVCMSVEOCVCMyVEOSU4OCVEOSU4NS0lRDglQTclRDklODQlRDglQUUlRDglQUYlRDklODUlRDglQTclRDglQUEtJUQ4JUE3JUQ5JTg0JUQ5JTg1JUQ4JUI1JUQ4JUIxJUQ5JTgxJUQ5JThBJUQ4JUE5LSVEOCVBRSVEOSU4NCVEOCVBNyVEOSU4NC0yMDIzLT9hbXA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-10T08:56:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "السعودية Investing.comالسعودية Investing.com",
+      "title": "اللون الأحمر يضرب الأسواق.. فما الأسباب الحقيقية وراء ذلك؟ بواسطة Investing.com - السعودية Investing.comالسعودية Investing.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vc2EuaW52ZXN0aW5nLmNvbS9uZXdzL3N0b2NrLW1hcmtldC1uZXdzL2FydGljbGUtMjQzNDI3N9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-10T08:53:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "السعودية Investing.comالسعودية Investing.com",
+      "title": "تحركات غامضة وغير اعتيادية في سوق العملات الرقمية.. اشتباه في عملية قرصنة! بواسطة Investing.com - السعودية Investing.comالسعودية Investing.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vc2EuaW52ZXN0aW5nLmNvbS9uZXdzL2NyeXB0b2N1cnJlbmN5LW5ld3MvYXJ0aWNsZS0yNDM0MzIy0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-10T08:17:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "الجريدة العقارية Aleqaria News",
+      "title": "عاجل: الذهب يتراجع عالميا ومحليا.. مفاجأة في الأسعار - الجريدة العقارية Aleqaria News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMivwFodHRwczovL2FsZXFhcmlhLmNvbS5lZy9wb3N0L2RldGFpbHMvMTQ3MDAwLyVEOCVBNyVEOSU4NCVEOCVCMCVEOSU4NyVEOCVBOC0lRDklOEElRDglQUElRDglQjElRDglQTclRDglQUMlRDglQjktJUQ4JUI5JUQ4JUE3JUQ5JTg0JUQ5JTg1JUQ5JThBJUQ4JUE3LSVEOSU4OCVEOSU4NSVEOCVBRCVEOSU4NCVEOSU4QSVEOCVBNy03NjE2ONIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-10T08:03:04Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "اليوم السابع",
+      "title": "أسعار العملات اليوم الاثنين 10-7-2023 أمام الجنيه المصرى - اليوم السابع",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMirgJodHRwczovL3d3dy55b3VtNy5jb20vc3RvcnkvMjAyMy83LzEwLyVEOCVBMyVEOCVCMyVEOCVCOSVEOCVBNyVEOCVCMS0lRDglQTclRDklODQlRDglQjklRDklODUlRDklODQlRDglQTclRDglQUEtJUQ4JUE3JUQ5JTg0JUQ5JThBJUQ5JTg4JUQ5JTg1LSVEOCVBNyVEOSU4NCVEOCVBNyVEOCVBQiVEOSU4NiVEOSU4QSVEOSU4Ni0xMC03LTIwMjMtJUQ4JUEzJUQ5JTg1JUQ4JUE3JUQ5JTg1LSVEOCVBNyVEOSU4NCVEOCVBQyVEOSU4NiVEOSU4QSVEOSU4Ny0lRDglQTclRDklODQlRDklODUlRDglQjUlRDglQjElRDklODkvNjIzNjA3OdIBqgJodHRwczovL20ueW91bTcuY29tL2FtcC8yMDIzLzcvMTAvJUQ4JUEzJUQ4JUIzJUQ4JUI5JUQ4JUE3JUQ4JUIxLSVEOCVBNyVEOSU4NCVEOCVCOSVEOSU4NSVEOSU4NCVEOCVBNyVEOCVBQS0lRDglQTclRDklODQlRDklOEElRDklODglRDklODUtJUQ4JUE3JUQ5JTg0JUQ4JUE3JUQ4JUFCJUQ5JTg2JUQ5JThBJUQ5JTg2LTEwLTctMjAyMy0lRDglQTMlRDklODUlRDglQTclRDklODUtJUQ4JUE3JUQ5JTg0JUQ4JUFDJUQ5JTg2JUQ5JThBJUQ5JTg3LSVEOCVBNyVEOSU4NCVEOSU4NSVEOCVCNSVEOCVCMSVEOSU4OS82MjM2MDc5?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-10T08:03:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Sky News Arabia سكاي نيوز عربية",
+      "title": "لهذا السبب.. ماكدونالدز تتوقف عن استخدام الطماطم في الهند - Sky News Arabia سكاي نيوز عربية",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMitwJodHRwczovL3d3dy5za3luZXdzYXJhYmlhLmNvbS9idXNpbmVzcy8xNjM1ODQwLSVEOSU4NCVEOSU4NyVEOCVCMCVEOCVBNy0lRDglQTclRDklODQlRDglQjMlRDglQTglRDglQTgtJUQ5JTg1JUQ4JUE3JUQ5JTgzJUQ4JUFGJUQ5JTg4JUQ5JTg2JUQ4JUE3JUQ5JTg0JUQ4JUFGJUQ4JUIyLSVEOCVBQSVEOCVBQSVEOSU4OCVEOSU4MiVEOSU4MS0lRDglQTclRDglQjMlRDglQUElRDglQUUlRDglQUYlRDglQTclRDklODUtJUQ4JUE3JUQ5JTg0JUQ4JUI3JUQ5JTg1JUQ4JUE3JUQ4JUI3JUQ5JTg1LSVEOCVBNyVEOSU4NCVEOSU4NyVEOSU4NiVEOCVBRtIBuwJodHRwczovL3d3dy5za3luZXdzYXJhYmlhLmNvbS9hbXAvYnVzaW5lc3MvMTYzNTg0MC0lRDklODQlRDklODclRDglQjAlRDglQTctJUQ4JUE3JUQ5JTg0JUQ4JUIzJUQ4JUE4JUQ4JUE4LSVEOSU4NSVEOCVBNyVEOSU4MyVEOCVBRiVEOSU4OCVEOSU4NiVEOCVBNyVEOSU4NCVEOCVBRiVEOCVCMi0lRDglQUElRDglQUElRDklODglRDklODIlRDklODEtJUQ4JUE3JUQ4JUIzJUQ4JUFBJUQ4JUFFJUQ4JUFGJUQ4JUE3JUQ5JTg1LSVEOCVBNyVEOSU4NCVEOCVCNyVEOSU4NSVEOCVBNyVEOCVCNyVEOSU4NS0lRDglQTclRDklODQlRDklODclRDklODYlRDglQUY?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-10T07:56:49Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "صحيفة الشرق الأوسط",
+      "title": "بعد حظره على «تويتر»... متتبع طائرة ماسك يراقبه من «ثريدز» - صحيفة الشرق الأوسط",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMi_AJodHRwczovL2Fhd3NhdC5jb20vJUQ5JThBJUQ5JTg4JUQ5JTg1JUQ5JThBJUQ4JUE3JUQ4JUFBLSVEOCVBNyVEOSU4NCVEOCVCNCVEOCVCMSVEOSU4Mi80NDI0NzExLSVEOCVBOCVEOCVCOSVEOCVBRi0lRDglQUQlRDglQjglRDglQjElRDklODctJUQ4JUI5JUQ5JTg0JUQ5JTg5LSVDMiVBQiVEOCVBQSVEOSU4OCVEOSU4QSVEOCVBQSVEOCVCMSVDMiVCQi0lRDklODUlRDglQUElRDglQUElRDglQTglRDglQjktJUQ4JUI3JUQ4JUE3JUQ4JUE2JUQ4JUIxJUQ4JUE5LSVEOSU4NSVEOCVBNyVEOCVCMyVEOSU4My0lRDklOEElRDglQjElRDglQTclRDklODIlRDglQTglRDklODctJUQ5JTg1JUQ5JTg2LSVDMiVBQiVEOCVBQiVEOCVCMSVEOSU4QSVEOCVBRiVEOCVCMiVDMiVCQtIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-10T07:23:18Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "العربية",
+      "title": "\"بيل غيتس\" يكشف الدرس الذي غير حياته - العربية",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMi6gFodHRwczovL3d3dy5hbGFyYWJpeWEubmV0L2Fzd2FxL3NwZWNpYWwtc3Rvcmllcy8yMDIzLzA3LzEwLy0lRDglQTglRDklOEElRDklODQtJUQ4JUJBJUQ5JThBJUQ4JUFBJUQ4JUIzLSVEOSU4QSVEOSU4MyVEOCVCNCVEOSU4MS0lRDglQTclRDklODQlRDglQUYlRDglQjElRDglQjMtJUQ4JUE3JUQ5JTg0JUQ4JUIwJUQ5JThBLSVEOCVCQSVEOSU4QSVEOCVCMS0lRDglQUQlRDklOEElRDglQTclRDglQUElRDklODfSAe4BaHR0cHM6Ly93d3cuYWxhcmFiaXlhLm5ldC9hbXAvYXN3YXEvc3BlY2lhbC1zdG9yaWVzLzIwMjMvMDcvMTAvLSVEOCVBOCVEOSU4QSVEOSU4NC0lRDglQkElRDklOEElRDglQUElRDglQjMtJUQ5JThBJUQ5JTgzJUQ4JUI0JUQ5JTgxLSVEOCVBNyVEOSU4NCVEOCVBRiVEOCVCMSVEOCVCMy0lRDglQTclRDklODQlRDglQjAlRDklOEEtJUQ4JUJBJUQ5JThBJUQ4JUIxLSVEOCVBRCVEOSU4QSVEOCVBNyVEOCVBQSVEOSU4Nw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-10T07:03:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "الجريدة العقارية Aleqaria News",
+      "title": "11700 جنيه فرق.. مفاجأة في سعر حديد عز اليوم للمستهلك | الحكومة: الطن بـ 27 ألف - الجريدة العقارية Aleqaria News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL2FsZXFhcmlhLmNvbS5lZy9wb3N0L2RldGFpbHMvMTQ2OTc1LyVEOCVCMyVEOCVCOSVEOCVCMS0lRDglQUQlRDglQUYlRDklOEElRDglQUYtJUQ4JUI5JUQ4JUIyLSVEOCVBNyVEOSU4NCVEOSU4QSVEOSU4OCVEOSU4NS02ODY5MdIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-10T06:01:12Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Sky News Arabia سكاي نيوز عربية",
+      "title": "الذهب يرتفع بسبب الشكوك حول مسار رفع الفائدة الأميركية - Sky News Arabia سكاي نيوز عربية",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMixAJodHRwczovL3d3dy5za3luZXdzYXJhYmlhLmNvbS9idXNpbmVzcy8xNjM1Nzc4LSVEOCVBNyVEOSU4NCVEOCVCMCVEOSU4NyVEOCVBOC0lRDklOEElRDglQjElRDglQUElRDklODElRDglQjktJUQ4JUE4JUQ4JUIzJUQ4JUE4JUQ4JUE4LSVEOCVBNyVEOSU4NCVEOCVCNCVEOSU4MyVEOSU4OCVEOSU4My0lRDklODUlRDglQjMlRDglQTclRDglQjEtJUQ4JUIxJUQ5JTgxJUQ4JUI5LSVEOCVBNyVEOSU4NCVEOSU4MSVEOCVBNyVEOSU4QSVEOSU5NCVEOCVBRiVEOCVBOS0lRDglQTclRDklODQlRDglQTclRDklOTQlRDklODUlRDklOEElRDglQjElRDklODMlRDklOEElRDglQTnSAcgCaHR0cHM6Ly93d3cuc2t5bmV3c2FyYWJpYS5jb20vYW1wL2J1c2luZXNzLzE2MzU3NzgtJUQ4JUE3JUQ5JTg0JUQ4JUIwJUQ5JTg3JUQ4JUE4LSVEOSU4QSVEOCVCMSVEOCVBQSVEOSU4MSVEOCVCOS0lRDglQTglRDglQjMlRDglQTglRDglQTgtJUQ4JUE3JUQ5JTg0JUQ4JUI0JUQ5JTgzJUQ5JTg4JUQ5JTgzLSVEOSU4NSVEOCVCMyVEOCVBNyVEOCVCMS0lRDglQjElRDklODElRDglQjktJUQ4JUE3JUQ5JTg0JUQ5JTgxJUQ4JUE3JUQ5JThBJUQ5JTk0JUQ4JUFGJUQ4JUE5LSVEOCVBNyVEOSU4NCVEOCVBNyVEOSU5NCVEOSU4NSVEOSU4QSVEOCVCMSVEOSU4MyVEOSU4QSVEOCVBOQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-10T04:32:25Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Sky News Arabia سكاي نيوز عربية",
+      "title": "النفط يهبط وسط ترقب لبيانات التضخم الأميركية - Sky News Arabia سكاي نيوز عربية",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMinwJodHRwczovL3d3dy5za3luZXdzYXJhYmlhLmNvbS9idXNpbmVzcy8xNjM1NzczLSVEOCVBNyVEOSU4NCVEOSU4NiVEOSU4MSVEOCVCNy0lRDklOEElRDklODclRDglQTglRDglQjctJUQ5JTg4JUQ4JUIzJUQ4JUI3LSVEOCVBQSVEOCVCMSVEOSU4MiVEOCVBOC0lRDklODQlRDglQTglRDklOEElRDglQTclRDklODYlRDglQTclRDglQUEtJUQ4JUE3JUQ5JTg0JUQ4JUFBJUQ4JUI2JUQ4JUFFJUQ5JTg1LSVEOCVBNyVEOSU4NCVEOCVBNyVEOSU5NCVEOSU4NSVEOSU4QSVEOCVCMSVEOSU4MyVEOSU4QSVEOCVBOdIBowJodHRwczovL3d3dy5za3luZXdzYXJhYmlhLmNvbS9hbXAvYnVzaW5lc3MvMTYzNTc3My0lRDglQTclRDklODQlRDklODYlRDklODElRDglQjctJUQ5JThBJUQ5JTg3JUQ4JUE4JUQ4JUI3LSVEOSU4OCVEOCVCMyVEOCVCNy0lRDglQUElRDglQjElRDklODIlRDglQTgtJUQ5JTg0JUQ4JUE4JUQ5JThBJUQ4JUE3JUQ5JTg2JUQ4JUE3JUQ4JUFBLSVEOCVBNyVEOSU4NCVEOCVBQSVEOCVCNiVEOCVBRSVEOSU4NS0lRDglQTclRDklODQlRDglQTclRDklOTQlRDklODUlRDklOEElRDglQjElRDklODMlRDklOEElRDglQTk?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-10T03:46:10Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Sada El-Bald صدى البلد",
+      "title": "الآن.. سعر الدولار رسميا بالبنوك بعد ارتفاع الاحتياطي إلى مستويات قياسية - Sada El-Bald صدى البلد",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiIGh0dHBzOi8vd3d3LmVsYmFsYWQubmV3cy81ODM4NjIy0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-10T02:45:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "اقتصاد الشرق مع Bloomberg",
+      "title": "\"إكسترا\" السعودية تخسر 10 ملايين دولار من وقف توسعها في مصر - اقتصاد الشرق مع بلومبرغ - اقتصاد الشرق مع Bloomberg",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiyAJodHRwczovL3d3dy5hc2hhcnFidXNpbmVzcy5jb20vYXJ0aWNsZS81MjAxMi8lRDglQTUlRDklODMlRDglQjMlRDglQUElRDglQjElRDglQTctJUQ4JUE3JUQ5JTg0JUQ4JUIzJUQ4JUI5JUQ5JTg4JUQ4JUFGJUQ5JThBJUQ4JUE5LSVEOCVBQSVEOCVBRSVEOCVCMyVEOCVCMS0xMC0lRDklODUlRDklODQlRDglQTclRDklOEElRDklOEElRDklODYtJUQ4JUFGJUQ5JTg4JUQ5JTg0JUQ4JUE3JUQ4JUIxLSVEOSU4NSVEOSU4Ni0lRDklODglRDklODIlRDklODEtJUQ4JUFBJUQ5JTg4JUQ4JUIzJUQ4JUI5JUQ5JTg3JUQ4JUE3LSVEOSU4MSVEOSU4QS0lRDklODUlRDglQjUlRDglQjEv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-10T01:51:45Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "ثقفني",
+      "title": "بـ5000 ريال اشتري سيارة مستعملة بالسعودية استعمال نظيف - ثقفني",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiygFodHRwczovL3d3dy50aGFxZm55LmNvbS8zMTAzNDk5LyVEOCVCMyVEOSU4QSVEOCVBNyVEOCVCMSVEOCVBNyVEOCVBQS0lRDklODUlRDglQjMlRDglQUElRDglQjklRDklODUlRDklODQlRDglQTktJUQ5JTg0JUQ5JTg0JUQ4JUE4JUQ5JThBJUQ4JUI5LSVEOCVBOCVEOCVCMyVEOCVCOSVEOCVCMS01MDAwLSVEOCVCMSVEOSU4QSVEOCVBNyVEOSU4NC1jYXIv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-09T21:50:31Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Sada El-Bald صدى البلد",
+      "title": "بهذا السعر .. اشتري ارخص سيارة فرنسية موديل 2023 - Sada El-Bald صدى البلد",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiIGh0dHBzOi8vd3d3LmVsYmFsYWQubmV3cy81ODM4MzY40gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-09T19:00:46Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "جريدة المال",
+      "title": "وزير المالية الفرنسي يعرب عن أمله في بناء شركة تسلا مصنعا في فرنسا - جريدة المال",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMi3gFodHRwczovL2FsbWFsbmV3cy5jb20vJUQ5JTg4JUQ4JUIyJUQ5JThBJUQ4JUIxLSVEOCVBNyVEOSU4NCVEOSU4NSVEOCVBNyVEOSU4NCVEOSU4QSVEOCVBOS0lRDglQTclRDklODQlRDklODElRDglQjElRDklODYlRDglQjMlRDklOEEtJUQ5JThBJUQ4JUI5JUQ4JUIxJUQ4JUE4LSVEOCVCOSVEOSU4Ni0lRDglQTMlRDklODUlRDklODQlRDklODctJUQ5JTgxJUQ5JThBLSVEOCVBOCVEOSU4Ni_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-09T18:23:23Z",
+      "content": null
+    }
+  ]
+}
+
+
+
+;  https://www.postman.com/collections/94db931dc503afd508a5
