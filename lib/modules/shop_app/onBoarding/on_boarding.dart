@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:social_app/defaults.dart';
-import 'package:social_app/modules/shop_app/login/log_in.dart';
 import 'package:social_app/shared/colors.dart';
 import 'package:social_app/shared/network/local/cache_helper.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
@@ -49,7 +48,7 @@ class _OnBoardingScreenState extends State<OnBoardingScreen> {
         if (value) {
           navigateToWithReplacment(
             context,
-            LogInScreen(),
+            null, // LogInScreen(),
           );
         }
       },

@@ -1,51 +1,54 @@
+// ignore: must_be_immutable
 import 'package:conditional_builder_null_safety/conditional_builder_null_safety.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:social_app/modules/shop_app/Register/cubit/states.dart';
-import 'package:social_app/modules/shop_app/login/log_in.dart';
-import '../../../constants/const.dart';
+import 'package:social_app/layout/socialApp/social_layout.dart';
+import 'package:social_app/modules/Social_app/Register/cubit/states.dart';
+import 'package:social_app/modules/social_app/register/cubit/cubit.dart';
 import '../../../defaults.dart';
-import '../../../layout/shopApp/shop_layout.dart';
-import '../../../shared/network/local/cache_helper.dart';
-import 'cubit/cubit.dart';
+import '../login_screen/login_screen.dart';
 
 // ignore: must_be_immutable
-class ShopRegisterScreen extends StatelessWidget {
+class SocialRegisterScreen extends StatelessWidget {
   var formKey = GlobalKey<FormState>();
   var emailController = TextEditingController();
   var passController = TextEditingController();
   var nameController = TextEditingController();
   var phoneController = TextEditingController();
 
-  ShopRegisterScreen({super.key});
+  SocialRegisterScreen({super.key});
   @override
   Widget build(BuildContext context) {
     return BlocProvider(
-      create: (BuildContext context) => ShopRegisterCubit(),
-      child: BlocConsumer<ShopRegisterCubit, ShopRegisterStates>(
+      create: (BuildContext context) => SocialRegisterCubit(),
+      child: BlocConsumer<SocialRegisterCubit, SocialRegisterStates>(
         listener: (context, state) {
-          if (state is ShopRegisterSuccessState) {
-            if (state.RegisterModel?.status == true) {
-              CacheHelper.saveData(
-                      key: 'token', value: state.RegisterModel?.data?.token)
-                  .then((value) {
-                token = CacheHelper.getData(key: 'token');
-                print("Token from Login : $token");
-                navigateToWithReplacment(context, const ShopLayout());
-              });
+          // if (state is SocialRegisterSuccessState) {
+          //   if (state.RegisterModel?.status == true) {
+          //     CacheHelper.saveData(
+          //             key: 'token', value: state.RegisterModel?.data?.token)
+          //         .then((value) {
+          //       token = CacheHelper.getData(key: 'token');
+          //       print("Token from Login : $token");
+          //       navigateToWithReplacment(context, const SocialLayout());
+          //     });
 
-              toastShow(
-                backColor: Colors.green,
-                txt:
-                    'Created account Successfully welcom , ${state.RegisterModel?.data?.name}',
-              );
-            } else {
-              // print(state.RegisterModel?.message);
-              toastShow(
-                backColor: Colors.red,
-                txt: "${state.RegisterModel?.message}",
-              );
-            }
+          //     toastShow(
+          //       backColor: Colors.green,
+          //       txt:
+          //           'Created account Successfully welcom , ${state.RegisterModel?.data?.name}',
+          //     );
+          //   } else {
+          //     // print(state.RegisterModel?.message);
+          //     toastShow(
+          //       backColor: Colors.red,
+          //       txt: "${state.RegisterModel?.message}",
+          //     );
+          //   }
+          // }
+
+          if (state is SocialCreateUserSuccessState) {
+            navigateTo(context, const SocialLayout());
           }
         },
         builder: (context, state) {
@@ -71,7 +74,7 @@ class ShopRegisterScreen extends StatelessWidget {
                           height: 16,
                         ),
                         Text(
-                          "Register now to discover our offers !",
+                          "Register now to Communicate with your Friends.",
                           style: Theme.of(context)
                               .textTheme
                               .displaySmall
@@ -115,11 +118,11 @@ class ShopRegisterScreen extends StatelessWidget {
                           type: TextInputType.visiblePassword,
                           label: 'password',
                           prefix: Icons.lock_outlined,
-                          suffix: ShopRegisterCubit.get(context).suffix,
+                          suffix: SocialRegisterCubit.get(context).suffix,
                           onSubmit: (value) {},
-                          isPassword: ShopRegisterCubit.get(context).vis,
+                          isPassword: SocialRegisterCubit.get(context).vis,
                           onPressedSuffix: () {
-                            ShopRegisterCubit.get(context).visiablePassword();
+                            SocialRegisterCubit.get(context).visiablePassword();
                           },
                           validate: (String? val) {
                             if (val!.isEmpty) {
@@ -146,19 +149,21 @@ class ShopRegisterScreen extends StatelessWidget {
                         ),
                         // ignore: sized_box_for_whitespace
                         ConditionalBuilder(
-                          condition: state is! ShopRegisterLoadingState,
+                          condition: state is! SocialRegisterLoadingState,
                           builder: (context) => Container(
                             height: 45,
                             width: double.infinity,
                             child: ElevatedButton(
                               onPressed: () {
                                 if (formKey.currentState!.validate()) {
-                                  ShopRegisterCubit.get(context).userRegister(
+                                  SocialRegisterCubit.get(context).userRegister(
                                     email: emailController.text,
                                     password: passController.text,
                                     name: nameController.text,
                                     phone: phoneController.text,
                                   );
+
+                                 
                                 }
                               },
                               child: const Text(
@@ -181,7 +186,7 @@ class ShopRegisterScreen extends StatelessWidget {
                             ),
                             TextButton(
                               onPressed: () {
-                                navigateTo(context, LogInScreen());
+                                navigateTo(context, SocialLoginScreen());
                               },
                               child: const Text(
                                 "Sign in",

@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:social_app/defaults.dart';
 import 'package:social_app/modules/shop_app/cubit/cubit.dart';
-import 'package:social_app/modules/shop_app/login/log_in.dart';
 import 'package:social_app/shared/network/local/cache_helper.dart';
 import '../cubit/states.dart';
 
@@ -97,7 +96,7 @@ class SettingsScreen extends StatelessWidget {
                       onPressed: () {
                         CacheHelper.clearData(key: 'token').then(
                           (value) {
-                            navigateToWithReplacment(context, LogInScreen());
+                            navigateToWithReplacment(context, null);
                           },
                         );
                       },

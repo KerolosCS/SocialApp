@@ -49,6 +49,11 @@ dependencies:
   fluttertoast: ^8.2.2
   carousel_slider: ^4.2.1
   firebase_core: ^2.15.0
+  firebase_auth: ^4.7.1
+  firebase_core_platform_interface: ^4.4.1
+  firebase_app_check: ^0.1.5+1
+  cloud_firestore: ^4.8.3
+
 
 
 
